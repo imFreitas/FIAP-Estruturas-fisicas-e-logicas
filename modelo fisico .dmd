@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo fisico " id="C638961D-D8E5-12A8-4ADE-E750C3A246DE" version="3.5">
+<createdBy>opedr</createdBy>
+<createdTime>2023-05-26 22:20:20 UTC</createdTime>
+<ownerDesignName>modelo logico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C638961D-D8E5-12A8-4ADE-E750C3A246DE</designId>
+</OSDM_Design>
