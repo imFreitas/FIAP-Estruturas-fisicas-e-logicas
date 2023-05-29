@@ -8,4 +8,4 @@
 ### Diagrama de modelo Físico 
 ![fisico](https://github.com/imFreitas/FIAP-Estruturas-fisicas-e-logicas/blob/main/modelo%20fisico%20img.jpeg)
 ### Scripts em SQL 
-
+[Clique aqui!](https://github.com/imFreitas/FIAP-Estruturas-fisicas-e-logicas/blob/main/scripts.sql)
