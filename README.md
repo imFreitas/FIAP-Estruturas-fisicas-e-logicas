@@ -4,7 +4,12 @@
 
 ### Diagrama de modelo Logico 
 
+![logico](https://github.com/imFreitas/FIAP-Estruturas-fisicas-e-logicas/blob/main/modelo%20logico%20img.jpeg)
+
 ### Diagrama de modelo Físico 
+
+![fisico]()
+
 
 ### Scripts em SQL 
 
